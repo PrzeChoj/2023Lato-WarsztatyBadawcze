@@ -1,5 +1,7 @@
 # 2023Lato-WarsztatyBadawcze
 
+„Zgadywanie jest tanie, błędne zgadywanie jest kosztowne” ~ stare chińskie przysłowie
+
 # Optymalizacja
 
 Warsztaty będą dotyczyć optymalizacji w szerokim ujęciu. Studenci będą analizować algorytmy umożliwiające znalezienie optimum różnych funkcji w różnym kontekście. 
