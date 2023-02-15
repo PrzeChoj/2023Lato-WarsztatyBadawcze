@@ -2,6 +2,8 @@
 
 „Zgadywanie jest tanie, błędne zgadywanie jest kosztowne” ~ stare chińskie przysłowie
 
+Głównym celem przedmiotu jest uświadomienie studentom ogromu noworozwijanej nauki. Na zajęciach nacisk kładziony będzie na pracę nad projektem (własną oraz w grupie), a indywidualne pomysły będą chojnie nagradzane.
+
 # Optymalizacja
 
 Warsztaty będą dotyczyć optymalizacji w szerokim ujęciu. Studenci będą analizować algorytmy umożliwiające znalezienie optimum różnych funkcji w różnym kontekście. 
@@ -14,7 +16,7 @@ Głównymi rodzinami algorytmów analizowanymi na zajęciach będą:
 
 # Terminarz
 
-|        Lp.        |Data                          |Co będzie na zajęciach                         |
+|        Lp.        |Data                          |Temat zajęć                         |
 |--------------|-------------------------------|-----------------------------|
 |1.|2023.02.23|Zapoznanie się z tematyką przedmiotu. Wybór prezentacji. Podział na zespoły.|
 |2.|2023.03.02|Jurnal Club 2 osoby|
@@ -36,7 +38,7 @@ Głównymi rodzinami algorytmów analizowanymi na zajęciach będą:
 
 # Ocena
 
-Ocena studenta jest sumą punktów spośród możliwych do zdobycia:
+Student zbiera punkty spośród możliwych do zdobycia:
 | Lp. | max punktacja | Radzaj zadania |
 |--------------|-------------------------------|-----------------------------|
 | 1. | 30 | Prezentacja na Journal Club |
@@ -46,8 +48,10 @@ Ocena studenta jest sumą punktów spośród możliwych do zdobycia:
 | 5. | 10 | GitHub |
 | 6. | 30 | Raport z projektu |
 
-Suma przelicza się na ocenę według następującej skali:
-| 3 | 3.5 | 4 | 4.5 | 5 |
-|--------------|-------------------------------|-----------------------------|-------------------------------|-----------------------------|
-| (50, 60] | (60, 70] | (70, 80] | (80, 90] | (90, $\infty$] |
+Zebrane punkty przelicza się na ocenę według następującej skali:
+| 2 | 3 | 3.5 | 4 | 4.5 | 5 |
+|---------|--------------|-------------------------------|-----------------------------|-------------------------------|-----------------------------|
+| [0, 50] lub 0 pkt za którekolwiek zadanie | (50, 60] | (60, 70] | (70, 80] | (80, 90] | (90, $\infty$] |
+
+Oznacza to, że w celu zaliczenia przemiotu student musi zdobyć co najmniej 1 pkt za każde zadanie oraz ponad 50 pkt w sumie.
 
