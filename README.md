@@ -2,7 +2,7 @@
 
 „Zgadywanie jest tanie, błędne zgadywanie jest kosztowne” ~ stare chińskie przysłowie
 
-Głównym celem przedmiotu jest uświadomienie studentom ogromu noworozwijanej nauki. Na zajęciach nacisk kładziony będzie na pracę nad projektem (własną oraz w grupie), a indywidualne pomysły będą chojnie nagradzane.
+Głównym celem przedmiotu jest uświadomienie studentom ogromu nowej i wciąż rozwijanej nauki. Na zajęciach nacisk kładziony będzie na pracę nad projektem (własną oraz w grupie), a indywidualne pomysły będą chojnie nagradzane.
 
 # Optymalizacja
 
@@ -18,31 +18,32 @@ Głównymi rodzinami algorytmów analizowanymi na zajęciach będą:
 
 |        Lp.        |Data                          |Temat zajęć                         |
 |--------------|-------------------------------|-----------------------------|
-|1.|2023.02.23|Zapoznanie się z tematyką przedmiotu. Wybór prezentacji. Podział na zespoły.|
-|2.|2023.03.02|Jurnal Club 2 osoby|
+|1.|2023.02.23|Projektu brak; na wykładzie podział na grupy projketowe|
+|2.|2023.03.02|Zapoznanie się z tematyką przedmiotu; wybór prezentacji; podział na zespoły|
 |3.|2023.03.09|Jurnal Club 2 osoby|
 |4.|2023.03.16|Jurnal Club 2 osoby|
 |5.|2023.03.23|Jurnal Club 2 osoby|
 |6.|2023.03.30|Jurnal Club 2 osoby|
 |7.|2023.04.06|Jurnal Club 2 osoby|
 |8.|2023.04.13|Jurnal Club 2 osoby|
-|9.|2023.04.20|Jurnal Club 1 osoba|
-|10.|2023.04.27|Test z Journal Club i Konsultacje|
+|9.|2023.04.20|Jurnal Club 2 osoby|
+|10.|2023.04.27|Jurnal Club 1 osoba; test z Journal Club|
 |-|2023.05.04|Brak zajęć|
 |11.|2023.05.11|Konsultacje|
 |12.|2023.05.18|Prezentacja działania algorytmów - "wyścig"|
 |13.|2023.05.25|Prezentacje projektów|
 |14.|2023.06.01|Konsultacje|
+|!|2023.06.04|Termin oddania raportu i GitHuba|
 |-|2023.06.08|Brak zajęć|
-|15.|2023.06.15|Termin oddania raportu i GitHuba|
+|15.|2023.06.15|Ustalenie możliwość poprawy oceny|
 
 # Ocena
 
 Student zbiera punkty spośród możliwych do zdobycia:
 | Lp. | max punktacja | Radzaj zadania |
 |--------------|-------------------------------|-----------------------------|
-| 1. | 30 | Prezentacja na Journal Club |
-| 2. | 15 | Test z Journal Club |
+| 1. | 25 | Prezentacja na Journal Club |
+| 2. | 10 | Test z Journal Club |
 | 3. | 10 | Prezentacja działania algorytmów - "wyścig" |
 | 4. | 15 | Prezentacja Projektu |
 | 5. | 10 | GitHub |
