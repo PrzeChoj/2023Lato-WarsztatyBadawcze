@@ -57,3 +57,7 @@ Zebrane punkty przelicza się na ocenę według następującej skali:
 
 Oznacza to, że w celu zaliczenia przemiotu student musi zdobyć co najmniej 1 pkt za każde zadanie oraz ponad 50 pkt w sumie.
 
+# Kontakt
+
+W razie jakichkolwiek wątpliwości zapraszam do kontaktu na ares e-mail 01142115@pw.edu.pl bądź przyjście w czasie gdy jestem dostępny dla studentów, czyli poniedziałki 10-12, czwartki 12-16 oraz piątki 10-14 w strefie Break;, bądź w KNM 126.
+
