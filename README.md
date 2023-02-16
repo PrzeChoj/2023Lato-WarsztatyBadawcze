@@ -45,9 +45,10 @@ Student zbiera punkty spośród możliwych do zdobycia:
 | 1. | 25 | Prezentacja na Journal Club |
 | 2. | 10 | Test z Journal Club |
 | 3. | 10 | Prezentacja działania algorytmów - "wyścig" |
-| 4. | 15 | Prezentacja Projektu |
-| 5. | 10 | GitHub |
-| 6. | 30 | Raport z projektu |
+| 4. | 15 | Prezentacja Projektu na Lab |
+| 5. | 10 | Prezentacja Projektu na wykładzie (tylko jedna grupa) |
+| 6. | 10 | GitHub |
+| 7. | 30 | Raport z projektu |
 
 Zebrane punkty przelicza się na ocenę według następującej skali:
 | 2 | 3 | 3.5 | 4 | 4.5 | 5 |
