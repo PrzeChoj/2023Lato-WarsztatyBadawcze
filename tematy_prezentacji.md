@@ -10,6 +10,8 @@ Podane linki NIE są jedynymi możliwymi źródłami, a jedynie wskazówkami gdz
 
 Po wybraniu tematu i wstępnym przejrzeniu materiałów proszę się skonsultować z prowadzącym odnośnie do planu prezentacji. Należy to zrobić w celu upewnienia się, że prezentacja będzie na zadowalającym poziomie merytorycznym oraz że jest ryzyko zmieszczenia się w przewidzianym czasie.
 
+Jeśli występują problemy z dostępem do artykułów bądź ktoś chce skonsultować swój własny reasearch - zapraszam do kontaktu.
+
 # Tematy prezentacji
 
 |        Lp.     |   Dział   |        Sugerowany rok studiów                  |   Temat  |  Link |
