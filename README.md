@@ -6,7 +6,7 @@ Głównym celem przedmiotu jest uświadomienie studentom ogromu nowej i wciąż 
 
 # Optymalizacja
 
-Warsztaty będą dotyczyć optymalizacji w szerokim ujęciu. Studenci będą analizować algorytmy umożliwiające znalezienie optimum różnych funkcji w różnym kontekście. 
+Warsztaty będą dotyczyć optymalizacji w szerokim ujęciu. Studenci będą analizować algorytmy umożliwiające znalezienie optimum różnych funkcji w różnym kontekście. Nacisk będzie położony na problemy "trudne" do zoptymalizowania, w szczególności takie dla których brak jest możliwości policzenia pochodnej.
 
 Głównymi rodzinami algorytmów analizowanymi na zajęciach będą:
 1. Monte Carlo Markov Chain
