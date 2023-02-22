@@ -37,3 +37,4 @@ Jeśli występują problemy z dostępem do artykułów bądź ktoś chce skonsul
 |19.|Inne|[**2**](#), ~~3~~|No Free Lunch Theorems| [artykuł](https://ieeexplore.ieee.org/document/585893) | |
 |20.|Inne|~~2~~, [**3**](#)|Modele dyfuzyjne (Typu DALL-E 2)| [artykuł1](https://www.sciencedirect.com/science/article/pii/S136403210900269X?via%3Dihub) [artykuł2](https://arxiv.org/abs/2209.00796) | |
 |21.|Inne|[**2**](#), ~~3~~|Protein structure prediction. AlphaFold| [artykuł](https://www.nature.com/articles/s41586-021-03819-2) | |
+|22.|Inne|[**2**](#), [**3**](#)| Własny pomysł studenta/studentki |  | |
