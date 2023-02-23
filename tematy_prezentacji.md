@@ -12,6 +12,8 @@ Po wybraniu tematu i wstępnym przejrzeniu materiałów proszę się skonsultowa
 
 Jeśli występują problemy z dostępem do artykułów bądź ktoś chce skonsultować swój własny reasearch - zapraszam do kontaktu.
 
+Przygotowany plik prezentacji (`.pdf`) należy wysłać (przy pomocy PR) do odpowiedniego folderu przed rozpoczęciem prezentacji.
+
 # Tematy prezentacji
 
 |        Lp.     |   Dział   |        Sugerowany rok studiów                  |   Temat  |  Link | Osoba prezentująca |
