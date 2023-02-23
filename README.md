@@ -33,7 +33,7 @@ Głównymi rodzinami algorytmów analizowanymi na zajęciach będą:
 |12.|2023.05.18|Prezentacja działania algorytmów - "wyścig"|
 |13.|2023.05.25|Prezentacje projektów|
 |14.|2023.06.01|Konsultacje|
-|!|2023.06.04|Termin oddania raportu i GitHuba|
+|!|2023.06.04 23:59|Termin oddania raportu i GitHuba|
 |-|2023.06.08|Brak zajęć|
 |15.|2023.06.15|Ustalenie możliwość poprawy oceny|
 
