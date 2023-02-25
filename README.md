@@ -57,7 +57,13 @@ Zebrane punkty przelicza się na ocenę według następującej skali:
 
 Oznacza to, że w celu zaliczenia przemiotu student musi zdobyć co najmniej 1 pkt za każde zadanie oraz ponad 50 pkt w sumie.
 
+# Projekt
+
+Zespoły będą miały za zadanie napisać algorytm rozwiązujący Travelling Salesman Problem (TSP) jak najlepiej w rozsądnym czasie (około 5 minut).
+
+Przykładowe zbiory danych do testów dostępne pod [tym linkiem](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/).
+
 # Kontakt
 
-W razie jakichkolwiek wątpliwości zapraszam do kontaktu na ares e-mail 01142115@pw.edu.pl bądź przyjście w czasie gdy jestem dostępny dla studentów, czyli poniedziałki 10-12, czwartki 12-16 oraz piątki 10-14 w strefie Break;, bądź w KNM 126.
+W razie jakichkolwiek wątpliwości zapraszam do kontaktu na ares e-mail 01142115@pw.edu.pl bądź przyjście w czasie gdy jestem dostępny dla studentów w ramach Tutorni, czyli poniedziałki 10-12, 14-16, środy 14-16 oraz czwartki 12-14 w strefie Break;. Najlepiej jest się zapowiedzieć, ale nie trzeba.
 
