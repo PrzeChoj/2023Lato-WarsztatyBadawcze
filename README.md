@@ -61,7 +61,7 @@ Oznacza to, że w celu zaliczenia przemiotu student musi zdobyć co najmniej 1 p
 
 Zespoły będą miały za zadanie napisać algorytm rozwiązujący Travelling Salesman Problem (TSP) jak najlepiej w rozsądnym czasie (około 5 minut).
 
-Przykładowe zbiory danych do testów dostępne pod [tym linkiem](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/).
+Przykładowe zbiory danych do testów dostępne pod [tym linkiem](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/atsp/).
 
 # Kontakt
 
