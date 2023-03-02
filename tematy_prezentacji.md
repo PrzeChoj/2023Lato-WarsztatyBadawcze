@@ -41,3 +41,5 @@ Przygotowany plik prezentacji (`.pdf`) należy wysłać (przy pomocy PR) do odpo
 |21.|Inne|[**2**](#), ~~3~~|Protein structure prediction. AlphaFold| [artykuł](https://www.nature.com/articles/s41586-021-03819-2) | |
 |22.|Inne|[**2**](#), ~~3~~| Obliczenia kwantowe i Programowanie probabilistyczne | [Wikipedia](https://en.wikipedia.org/wiki/Probabilistic_programming) | |
 |23.|Inne|[**2**](#), [**3**](#)| Własny pomysł studenta/studentki |  | |
+|24.|Inne|[**2**](#), ~~3~~| Problem chińskiego listonosza, jego warianty i próby znalezienia ich optymalnego rozwiązania| [artykuł1](https://www.sciencedirect.com/science/article/pii/0166218X84900891?via%3Dihub) 
+[artykuł2](https://www.google.com/url?sa=t&source=web&rct=j&url=https://ceur-ws.org/Vol-1989/paper12.pdf&ved=2ahUKEwjd5bS3pL79AhVVqosKHbwFC9IQFnoECAgQAQ&usg=AOvVaw0WAdGpAHCZjdhQDU3_i8JL)|Mateusz Nizwantowski|
