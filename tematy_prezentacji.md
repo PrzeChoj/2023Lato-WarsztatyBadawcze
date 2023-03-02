@@ -24,7 +24,7 @@ Przygotowany plik prezentacji (`.pdf`) należy wysłać (przy pomocy PR) do odpo
 |4.|MCMC|~~2~~, [**3**](#)| Próbnik Gibbsa | [artykuł1](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=afd3a135cd689b386f0b7d2bc962e3aaddf09b9a); [artykuł2](https://biostat.jhsph.edu/~mmccall/articles/casella_1992.pdf) | |
 |5.|Algorytmy Ewolucyjne|[**2**](#), ~~3~~|Przegląd algorytmów ewolucyjnych| [artykuł1](https://link.springer.com/chapter/10.1007/978-3-030-39958-0_16); [artykuł2](https://arxiv.org/abs/1906.08870) | |
 |6.|Algorytmy Ewolucyjne|~~2~~, [**3**](#)|Programowanie Ewolucyjne| [artykuł???](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=661555) | |
-|7.|Algorytmy Ewolucyjne|[**2**](#), [**3**](#)| Co to BBOB i CEC; testy statystyczne porównywania | [artykuł BBOB](https://doi.org/10.5281/zenodo.2594848), [artykuł CEC](https://link.springer.com/article/10.1007/s00521-022-07788-z) | |
+|7.|Algorytmy Ewolucyjne|[**2**](#), [**3**](#)| Co to BBOB i CEC; testy statystyczne porównywania | [artykuł BBOB](https://doi.org/10.5281/zenodo.2594848), [artykuł CEC](https://link.springer.com/article/10.1007/s00521-022-07788-z) | Łukasz Grabarski |
 |8.|Algorytmy Ewolucyjne|~~2~~, [**3**](#)|SHADE| [artykuł](http://metahack.org/CEC2013-SHADE.pdf) | |
 |9.|Algorytmy Ewolucyjne|~~2~~, [**3**](#)|CMA-ES| [artykuł](https://dl.acm.org/doi/pdf/10.1162/106365603321828970) | |
 |10.|Algorytmy Metaheurystyczne|[**2**](#), ~~3~~|Particle Swarm Optimization| [artykuł](https://link.springer.com/article/10.1007/s00500-016-2474-6) | |
