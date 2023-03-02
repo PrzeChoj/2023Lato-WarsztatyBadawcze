@@ -19,7 +19,7 @@ Przygotowany plik prezentacji (`.pdf`) należy wysłać (przy pomocy PR) do odpo
 |        Lp.     |   Dział   |        Sugerowany rok studiów                  |   Temat  |  Link | Osoba prezentująca |
 |--------------|--------------------|-------------------------------|-----------------------------|-------|-------|
 |1.|MCMC|~~2~~, [**3**](#)|   The Markov chain Monte Carlo revolution | [artykuł](https://www.semanticscholar.org/paper/The-Markov-chain-Monte-Carlo-revolution-Diaconis/4e6258ebd07b548f77f8cd33caf72d811c2bd54c) | |
-|2.|MCMC|~~2~~, [**3**](#)| Modyfikacja Symulowanego Wyżarzania | [artykuł](https://hal.inria.fr/hal-03275401/document) | |
+|2.|MCMC|~~2~~, [**3**](#)| Modyfikacja Symulowanego Wyżarzania | [artykuł](https://hal.inria.fr/hal-03275401/document) | Wojciech Grabias |
 |3.|MCMC|~~2~~, [**3**](#)| Modyfikacja Symulowanego Wyżarzania | [artykuł](https://link.springer.com/article/10.1007/s10898-011-9838-3) | Kamil Kisiel |
 |4.|MCMC|~~2~~, [**3**](#)| Próbnik Gibbsa | [artykuł1](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=afd3a135cd689b386f0b7d2bc962e3aaddf09b9a); [artykuł2](https://biostat.jhsph.edu/~mmccall/articles/casella_1992.pdf) | |
 |5.|Algorytmy Ewolucyjne|[**2**](#), ~~3~~|Przegląd algorytmów ewolucyjnych| [artykuł1](https://link.springer.com/chapter/10.1007/978-3-030-39958-0_16); [artykuł2](https://arxiv.org/abs/1906.08870) |Krzysztof Sawicki|
