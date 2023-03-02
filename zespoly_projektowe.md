@@ -8,6 +8,6 @@ Każdy zespół będzie potrzebował porównać swoje wyniki z innym. Prowadząc
 |        Lp.     |   Leader   |        Lista członków (rok studiów)                  |   Temat  |  Link do GitHuba |
 |--------------|--------------------|-------------------------------|-----------------------------|-------|
 |1.| | | | |
-|2.| | | | |
+|2.| NATALIA SAFIEJKO | WOJCIECH GRABIAS, KRZYSZTOF SAWICKI, KACPER WNĘK, PIOTR KOSAKOWSKI, NATALIA SAFIEJKO | | |
 |3.| | | | |
 |4.| | | | |
