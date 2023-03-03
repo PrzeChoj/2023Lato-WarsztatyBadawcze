@@ -1,6 +1,6 @@
 # Informacje ogólne
 
-Prezentacja ma trwać 35 minut + 5 minut na pytania. Należy się tego czasu ściśle trzymać.
+Prezentacja ma trwać [30, 40] minut + 5 minut na pytania. Należy się tego czasu ściśle trzymać.
 
 Własne propozycje tematów są bardzo mile widziane.
 
