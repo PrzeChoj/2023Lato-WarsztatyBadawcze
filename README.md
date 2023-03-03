@@ -42,7 +42,7 @@ Głównymi rodzinami algorytmów analizowanymi na zajęciach będą:
 Student zbiera punkty spośród możliwych do zdobycia:
 | Lp. | max punktacja | Radzaj zadania |
 |--------------|-------------------------------|-----------------------------|
-| 1. | 25 | Jednoosobowa prezentacja na Journal Club - 35 min |
+| 1. | 25 | Jednoosobowa prezentacja na Journal Club - [30, 40] min |
 | 2. | 10 | Test z Journal Club |
 | 3. | 10 | Prezentacja działania algorytmów - "wyścig" |
 | 4. | 15 | Grupowa prezentacja projektu na Lab - 20 min |
