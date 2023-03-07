@@ -18,6 +18,7 @@ Przygotowany plik prezentacji (`.pdf`) należy wysłać (przy pomocy PR) do odpo
 
 1. Każdy punkt bibliografii musi mieć jakieś odwołanie do siebie w treści prezentacji.
 2. Jeśli używamy $\LaTeX$ -a oraz w nim komendy `\pause`, to należy we wrzucanym pliku `.pdf` ustawić `\documentclass[handout]{beamer}`. Dzięki temu slidy nie będą się dzielić.
+3. W czasie prezentacji można korzystać z tablicy.
 
 
 # Tematy prezentacji
