@@ -14,6 +14,12 @@ Jeśli występują problemy z dostępem do artykułów bądź ktoś chce skonsul
 
 Przygotowany plik prezentacji (`.pdf`) należy wysłać (przy pomocy PR) do odpowiedniego folderu przed rozpoczęciem prezentacji.
 
+## Wymagania techniczne
+
+1. Każdy punkt bibliografii musi mieć jakieś odwołanie do siebie w treści prezentacji.
+2. Jeśli używamy $\LaTeX$ -a oraz w nim komendy `\pause`, to należy we wrzucanym pliku `.pdf` ustawić `\documentclass[handout]{beamer}`. Dzięki temu slidy nie będą się dzielić.
+
+
 # Tematy prezentacji
 
 |        Lp.     |   Dział   |        Sugerowany rok studiów                  |   Temat  |  Link | Osoba prezentująca |
