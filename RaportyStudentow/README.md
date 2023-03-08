@@ -4,7 +4,7 @@ Tu będą raporty w formacie '.pdf'.
 
 # Wymagania do raportu
 1. Należy zamieścić je do 2023.06.04 23:59
-2. Raport musi być napisany w $\LaTeX$u. Ja zawsze pisałem w darmowej wersji Overleafa i polecam najserdeczniej. Idealne do pracy wieloosobowej.
+2. Raport musi być napisany w $\LaTeX$ u. Ja zawsze pisałem w darmowej wersji Overleafa i polecam najserdeczniej. Idealne do pracy wieloosobowej.
 3. Streszczenie - pisane na koniec całej pracy
 4. Wstęp - co będzie robione w pracy
 3. Krótki opis implementowanej metody
