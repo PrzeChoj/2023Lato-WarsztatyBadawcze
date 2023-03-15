@@ -2,11 +2,11 @@
 
 „*Zgadywanie jest tanie, błędne zgadywanie jest kosztowne*” ~ stare chińskie przysłowie
 
-Głównym celem przedmiotu jest uświadomienie studentom ogromu nowej i wciąż rozwijanej nauki. Na zajęciach nacisk kładziony będzie na pracę nad projektem (własną oraz w grupie), a indywidualne pomysły będą chojnie nagradzane.
+Głównym celem przedmiotu jest uświadomienie studentom ogromu nowej i wciąż rozwijanej nauki. Na zajęciach nacisk kładziony będzie na pracę nad projektem (własną oraz w grupie), a indywidualne pomysły będą hojnie nagradzane.
 
 # Optymalizacja
 
-Warsztaty będą dotyczyć optymalizacji w szerokim ujęciu. Studenci będą analizować algorytmy umożliwiające znalezienie optimum różnych funkcji w różnym kontekście. Nacisk będzie położony na problemy "trudne" do zoptymalizowania, w szczególności takie dla których brak jest możliwości policzenia pochodnej.
+Warsztaty będą dotyczyć optymalizacji w szerokim ujęciu. Studenci będą analizować algorytmy umożliwiające znalezienie optimum różnych funkcji w różnym kontekście. Nacisk będzie położony na problemy "trudne" do zoptymalizowania, w szczególności takie, dla których brak jest możliwości policzenia pochodnej.
 
 Głównymi rodzinami algorytmów analizowanymi na zajęciach będą:
 1. Monte Carlo Markov Chain
@@ -18,7 +18,7 @@ Głównymi rodzinami algorytmów analizowanymi na zajęciach będą:
 
 |        Lp.        |Data                          |Temat zajęć                         |
 |--------------|-------------------------------|-----------------------------|
-|1.|2023.02.23|Projektu brak; na wykładzie podział na grupy projketowe|
+|1.|2023.02.23|Projektu brak; na wykładzie podział na grupy projektowe|
 |2.|2023.03.02|Zapoznanie się z tematyką przedmiotu; wybór prezentacji; podział na zespoły|
 |3.|2023.03.09|Jurnal Club 2 osoby|
 |4.|2023.03.16|Jurnal Club 2 osoby|
@@ -40,7 +40,7 @@ Głównymi rodzinami algorytmów analizowanymi na zajęciach będą:
 # Ocena
 
 Student zbiera punkty spośród możliwych do zdobycia:
-| Lp. | max punktacja | Radzaj zadania |
+| Lp. | max punktacja | Rodzaj zadania |
 |--------------|-------------------------------|-----------------------------|
 | 1. | 25 | Jednoosobowa prezentacja na Journal Club - [30, 40] min |
 | 2. | 10 | Test z Journal Club |
@@ -55,7 +55,7 @@ Zebrane punkty przelicza się na ocenę według następującej skali:
 |---------|--------------|-------------------------------|-----------------------------|-------------------------------|-----------------------------|
 | [0, 50] lub 0 pkt za którekolwiek zadanie | (50, 60] | (60, 70] | (70, 80] | (80, 90] | (90, $\infty$) |
 
-Oznacza to, że w celu zaliczenia przemiotu student musi zdobyć co najmniej 1 pkt za każde zadanie oraz ponad 50 pkt w sumie.
+Oznacza to, że w celu zaliczenia przedmiotu student musi zdobyć co najmniej 1 pkt za każde zadanie oraz ponad 50 pkt w sumie.
 
 # Projekt
 
