@@ -2,7 +2,7 @@
 
 „*Zgadywanie jest tanie, błędne zgadywanie jest kosztowne*” ~ stare chińskie przysłowie
 
-Głównym celem przedmiotu jest uświadomienie studentom ogromu nowej i wciąż rozwijanej nauki. Na zajęciach nacisk kładziony będzie na pracę nad projektem (własną oraz w grupie), a indywidualne pomysły będą hojnie nagradzane.
+Głównym celem przedmiotu jest uświadomienie studentom ogromu nowej i wciąż rozwijanej nauki. Na zajęciach nacisk kładziony będzie na pracę nad projektem (własną oraz w grupie), a indywidualne pomysły będą chojnie nagradzane.
 
 # Optymalizacja
 
