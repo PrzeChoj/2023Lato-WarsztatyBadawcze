@@ -9,4 +9,4 @@ Każdy zespół będzie potrzebował porównać swoje wyniki z innym. Prowadząc
 |--------------|--------------------|-------------------------------|-----------------------------|-------|
 |1.| Marta Szuwarska (2) | Łukasz Grabarski (2), Magdalena Jeczeń (2), Karolina Mączka (2), Mateusz Nizwantowski (2), Marta Szuwarska (2) | | https://github.com/nizwant/Warsztaty_Badawcze|
 |2.| NATALIA SAFIEJKO | WOJCIECH GRABIAS, KRZYSZTOF SAWICKI, KACPER WNĘK, PIOTR KOSAKOWSKI, NATALIA SAFIEJKO | | |
-|3.| | | | |
+|3.| Maciej Szpetmański | Franciszek Szczepaniak, Antoni Zajko, Dawid Płudowski, Kamil Kisiel, Maciej Szpetmański | | |
