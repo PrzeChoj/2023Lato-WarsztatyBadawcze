@@ -32,8 +32,8 @@ Przygotowany plik prezentacji (`.pdf`) należy wysłać (przy pomocy PR) do odpo
 |5.|Algorytmy Ewolucyjne|[**2**](#), ~~3~~|Przegląd algorytmów ewolucyjnych| [artykuł1](https://link.springer.com/chapter/10.1007/978-3-030-39958-0_16); [artykuł2](https://arxiv.org/abs/1906.08870) |Krzysztof Sawicki| 10.0 |
 |6.|Algorytmy Ewolucyjne|~~2~~, [**3**](#)|Programowanie Ewolucyjne| [artykuł???](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=661555) | | |
 |7.|Algorytmy Ewolucyjne|[**2**](#), [**3**](#)| Co to BBOB i CEC; testy statystyczne porównywania | [artykuł BBOB](https://doi.org/10.5281/zenodo.2594848), [artykuł CEC](https://link.springer.com/article/10.1007/s00521-022-07788-z) | Łukasz Grabarski | 9.36 |
-|8.|Algorytmy Ewolucyjne|~~2~~, [**3**](#)|SHADE| [artykuł](http://metahack.org/CEC2013-SHADE.pdf) | Dawid Płudowski | |
-|9.|Algorytmy Ewolucyjne|~~2~~, [**3**](#)|CMA-ES| [artykuł](https://dl.acm.org/doi/pdf/10.1162/106365603321828970) | Antoni Zajko | |
+|8.|Algorytmy Ewolucyjne|~~2~~, [**3**](#)|SHADE| [artykuł](http://metahack.org/CEC2013-SHADE.pdf) | Dawid Płudowski | 9.73 |
+|9.|Algorytmy Ewolucyjne|~~2~~, [**3**](#)|CMA-ES| [artykuł](https://dl.acm.org/doi/pdf/10.1162/106365603321828970) | Antoni Zajko | 9.85 |
 |10.|Algorytmy Metaheurystyczne|[**2**](#), ~~3~~|Particle Swarm Optimization| [artykuł](https://link.springer.com/article/10.1007/s00500-016-2474-6) |Maciej Szpetmański| |
 |11.|Algorytmy Metaheurystyczne|[**2**](#), ~~3~~|Water Wave Optimization (Wydaje się na połowę prezentacji, do konsultacji)| [artykuł](https://www.sciencedirect.com/science/article/pii/S0305054814002652) | Karolina Mączka | |
 |12.|Algorytmy Metaheurystyczne|[**2**](#), ~~3~~|Artificial Immune Systems, Clonal Selection Algorithm| [artykuł1](https://link.springer.com/chapter/10.1007/978-3-642-22371-6_31) [artykuł2](https://link.springer.com/article/10.1007/s10462-011-9206-1) | Magdalena Jeczeń | |
