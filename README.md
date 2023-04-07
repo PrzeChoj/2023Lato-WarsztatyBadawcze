@@ -59,7 +59,7 @@ Oznacza to, że w celu zaliczenia przedmiotu student musi zdobyć co najmniej 1 
 
 # Projekt
 
-Zespoły będą miały za zadanie napisać algorytm rozwiązujący Travelling Salesman Problem (TSP) jak najlepiej w rozsądnym czasie (około 5 minut).
+Zespoły będą miały za zadanie napisać algorytm rozwiązujący Travelling Salesman Problem (TSP) jak najlepiej w rozsądnym czasie (około 5 minut na jeden prablem).
 
 Przykładowe zbiory danych do testów dostępne pod [tym linkiem](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/atsp/).
 
