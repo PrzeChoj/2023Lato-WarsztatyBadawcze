@@ -26,10 +26,10 @@ Głównymi rodzinami algorytmów analizowanymi na zajęciach będą:
 |6.|2023.03.30|Jurnal Club 2 osoby|
 |7.|2023.04.06|Jurnal Club 2 osoby|
 |8.|2023.04.13|Jurnal Club 2 osoby|
-|9.|2023.04.20|Jurnal Club 2 osoby|
-|10.|2023.04.27|Jurnal Club 1 osoba; test z Journal Club|
+|9.|2023.04.20|Konsultacje|
+|10.|2023.04.27|Jurnal Club 2 osoby|
 |-|2023.05.04|Brak zajęć|
-|11.|2023.05.11|Konsultacje|
+|11.|2023.05.11|Jurnal Club 1 osoba; test z Journal Club|
 |12.|2023.05.18|Prezentacja działania algorytmów - "wyścig"|
 |13.|2023.05.25|Prezentacje projektów|
 |14.|2023.06.01|Konsultacje|
