@@ -39,7 +39,7 @@ Przygotowany plik prezentacji (`.pdf`) należy wysłać (przy pomocy PR) do odpo
 |12.|Algorytmy Metaheurystyczne|[**2**](#), ~~3~~|Artificial Immune Systems, Clonal Selection Algorithm| [artykuł1](https://link.springer.com/chapter/10.1007/978-3-642-22371-6_31) [artykuł2](https://link.springer.com/article/10.1007/s10462-011-9206-1) | Magdalena Jeczeń | 9.71 |
 |13.|Bayes|~~2~~, [**3**](#)|Promowanie statystyki Bayesowskiej| [artykuł stary (H. Steinhaus)](https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-28/issue-3/The-Problem-of-Estimation/10.1214/aoms/1177706876.full); [Jakieś nowsze źródło](https://youtu.be/dQw4w9WgXcQ) | | |
 |14.|Bayes|[**2**](#), ~~3~~|Pakiet R - użycie statystyki Bayesowskiej do wyciągania wniosków z grupy prac naukowych| [artykuł](https://journal.r-project.org/articles/RJ-2022-047/) | | |
-|15.|Bayes|[**2**](#), ~~3~~|Pakiet R - rozszeżenie shiny do uprawiania statysytyki Bayesowskiej| [artykuł](https://journal.r-project.org/articles/RJ-2022-027/) | Marta Szuwarska | 9.79 |
+|15.|Bayes|[**2**](#), ~~3~~|Pakiet R - rozszerzenie shiny do uprawiania statystyki Bayesowskiej| [artykuł](https://journal.r-project.org/articles/RJ-2022-027/) | Marta Szuwarska | 9.79 |
 |16.|Bayes|[**2**](#), ~~3~~|Pakiet R - bayesanova| [artykuł](https://journal.r-project.org/articles/RJ-2022-009/) | | |
 |17.|Inne|[**2**](#), ~~3~~|SAT-solvers| [artykuł](https://link.springer.com/article/10.1007/s10462-018-9628-0) | | |
 |18.|Inne|[**2**](#), ~~3~~|Expectation Maximization ([Jeden z najważniejszych algorytmów wszech czasów](http://www.koutschan.de/misc/algorithms.php))| [artykuł](https://www.sciencedirect.com/science/article/pii/S0959152418305614) | | |
