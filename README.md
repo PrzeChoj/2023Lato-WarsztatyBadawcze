@@ -59,11 +59,15 @@ Oznacza to, że w celu zaliczenia przedmiotu student musi zdobyć co najmniej 1 
 
 # Projekt
 
-Zespoły będą miały za zadanie napisać algorytm rozwiązujący Travelling Salesman Problem (TSP) jak najlepiej w rozsądnym czasie (około 5 minut na jeden prablem).
+Zespoły będą miały za zadanie napisać algorytm rozwiązujący asymetryczny problem komiwojażera (Asymmetric Traveling Salesman Problem; ATSP) jak najlepiej w rozsądnym czasie (około 5 minut na jeden graf).
 
-Przykładowe zbiory danych do testów dostępne pod [tym linkiem](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/atsp/).
+Z opisu na [tej stronie](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/index.html):
+
+*Given a set of n nodes and distances for each pair of nodes, find a roundtrip of minimal total length visiting each node exactly once. In this case, the distance from node i to node j and the distance from node j to node i may be different.*
+
+Przykładowe zbiory danych do testów dostępne pod [tym linkiem](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/atsp/). Znane optymalne rozwiązania do testów dostępne pod [tym linkiem](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/ATSP.html).
 
 # Kontakt
 
-W razie jakichkolwiek wątpliwości zapraszam do kontaktu na ares e-mail 01142115@pw.edu.pl bądź przyjście w czasie gdy jestem dostępny dla studentów w ramach Tutorni, czyli poniedziałki 10-12, 14-16, środy 14-16 oraz czwartki 12-14 w strefie Break;. Najlepiej jest się zapowiedzieć, ale nie trzeba.
+W razie jakichkolwiek wątpliwości zapraszam do kontaktu na adres e-mail 01142115@pw.edu.pl bądź przyjście w czasie gdy jestem dostępny dla studentów w ramach [Tutorni](https://docs.google.com/spreadsheets/d/1Jl2q1mRT4KoS1ojrOxRr_x0bP_rbsIl-yeA14u2Zq0E/edit#gid=1035883871), czyli poniedziałki 10-12, 14-16, środy 14-16 oraz czwartki 12-14 w strefie Break;. Najlepiej jest się zapowiedzieć, ale nie trzeba.
 
