@@ -9,8 +9,8 @@ Tu będą raporty w formacie '.pdf'.
 # Propozycja rozdziałów
 1. Streszczenie - pisane na koniec całej pracy
 4. Wstęp - co będzie robione w pracy
-3. Krótki opis implementowanej metody
-4. Główne wyniki - dużo obrazków i wykresów
+3. Krótki opis implementowanej metody, pseudokod
+4. Główne wyniki - dużo obrazków i wykresów. Analiza parametrów.
 5. Podsumowanie i wnioski
 6. Porównanie z innym zespołem
 6. Dalsze możliwości rozwoju - generalnie im więcej pomysłów tym lepiej, ale nie może jednak długością przekraczać podsumowania, bo to źle świadczy o ilości wykonanej pracy
