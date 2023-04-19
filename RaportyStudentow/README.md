@@ -26,3 +26,4 @@ Tu będą raporty w formacie '.pdf'.
     2. Ustawione `set.seed()`
 2. Zrozumiały dla mnie
 4. Język programowania dowolny poza [Ezoterycznymi](https://en.wikipedia.org/wiki/Esoteric_programming_language)
+5. Logika algorytmu w pełni zaimplementowana przez zespół
