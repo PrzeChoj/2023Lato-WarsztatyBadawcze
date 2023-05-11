@@ -1,10 +1,11 @@
 draw_destiny <- function() {
   numery_prezentacji <- c(1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 15, 19, 21, 23)
-  nazwiska_prezentarow <- c("Wnęk", "Grabias", "Kisiel", "Safiejko", "Sawisko", "Grabarski", "Pludowski", "Zajko", "Szpetmański", "Mączka", "Jeczeń", "Szuwarska", "Kosakowski", "Szczepaniak", "Nizwantowski")
+  nazwiska_prezentarow <- c("Wnęk", "Grabias", "Kisiel", "Safiejko", "Sawicki", "Grabarski", "Pludowski", "Zajko", "Szpetmański", "Mączka", "Jeczeń", "Szuwarska", "Kosakowski", "Szczepaniak", "Nizwantowski")
   
   out <- matrix(character(15 * 5), nrow = 5)
   for (i in 1:15) {
-    out[1:4, i] <- sample(nazwiska_prezentarow[-i], size = 4)
+    numbers <- sample((1:15)[-i], size = 4)
+    out[1:4, i] <- paste0(numery_prezentacji[numbers], ". ", nazwiska_prezentarow[numbers])
   }
   out[5, ] <- NA
   
