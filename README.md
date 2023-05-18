@@ -35,7 +35,7 @@ Głównymi rodzinami algorytmów analizowanymi na zajęciach będą:
 |14.|2023.06.01|Konsultacje|
 |!|2023.06.04 23:59|Termin oddania raportu i GitHuba|
 |-|2023.06.08|Brak zajęć|
-|15.|2023.06.15|Ustalenie możliwość poprawy oceny|
+|15.|2023.06.15|Prezentacje na wykładzie|
 
 # Ocena
 
@@ -45,7 +45,7 @@ Student zbiera punkty spośród możliwych do zdobycia:
 | 1. | 25 | Jednoosobowa prezentacja na Journal Club - [30, 40] min |
 | 2. | 10 | Test z Journal Club |
 | 3. | 10 | Prezentacja działania algorytmów - "wyścig" |
-| 4. | 15 | Grupowa prezentacja projektu na Lab - 20 min |
+| 4. | 15 | Grupowa prezentacja projektu na Lab - [15, 25] min |
 | 5. | 10 | Jedna grupa - prezentacja projektu na wykładzie - 10 min |
 | 6. | 10 | GitHub |
 | 7. | 30 | Raport z projektu |
