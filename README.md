@@ -16,11 +16,12 @@ Głównymi rodzinami algorytmów analizowanymi na zajęciach będą:
 
 # Terminarz
 
-|        Lp.        |Data                          |Temat zajęć                         |
+|        Numer zajęć        |Data                          |Temat zajęć                         |
 |--------------|-------------------------------|-----------------------------|
 |1.|2023.02.23|Projektu brak; na wykładzie podział na grupy projektowe|
 |2.|2023.03.02|Zapoznanie się z tematyką przedmiotu; wybór prezentacji; podział na zespoły|
 |3.|2023.03.09|Jurnal Club 2 osoby|
+|3.|2023.03.09|Wykład Adam Chojecki|
 |4.|2023.03.16|Jurnal Club 2 osoby|
 |5.|2023.03.23|Jurnal Club 2 osoby|
 |6.|2023.03.30|Jurnal Club 2 osoby|
@@ -32,10 +33,10 @@ Głównymi rodzinami algorytmów analizowanymi na zajęciach będą:
 |11.|2023.05.11|Jurnal Club 1 osoba; test z Journal Club|
 |12.|2023.05.18|Prezentacja działania algorytmów - "wyścig"|
 |13.|2023.05.25|Prezentacje projektów|
-|14.|2023.06.01|Konsultacje|
+|14.|2023.06.01|Konsultacje (Jeśli ktoś chce przyjść, proszę o kontakt)|
 |!|2023.06.04 23:59|Termin oddania raportu i GitHuba|
-|-|2023.06.08|Brak zajęć|
-|15.|2023.06.15|Prezentacje na wykładzie|
+|-|2023.06.08|Brak zajęć (Boże ciało)|
+|15.|2023.06.15|Prezentacje na wykładzie (od 8 do 11)|
 
 # Ocena
 
