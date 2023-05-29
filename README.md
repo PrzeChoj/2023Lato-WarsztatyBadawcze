@@ -36,7 +36,7 @@ Głównymi rodzinami algorytmów analizowanymi na zajęciach będą:
 |14.|2023.06.01|Konsultacje (Jeśli ktoś chce przyjść, proszę o kontakt)|
 |!|2023.06.04 23:59|Termin oddania raportu i GitHuba|
 |-|2023.06.08|Brak zajęć (Boże ciało)|
-|15.|2023.06.15|Prezentacje na wykładzie (od 8 do 11)|
+|15.|2023.06.15|Możliwość ustnej poprawy oceny; Prezentacje na wykładzie (107 od 10 do 12)|
 
 # Ocena
 
