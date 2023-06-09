@@ -22,7 +22,7 @@ Każdy zespół będzie potrzebował porównać swoje wyniki z innym. Prowadząc
 1. Raport należy zamieścić do 2023.06.04 23:59
 2. Raport musi być napisany w $\LaTeX$ u. Ja zawsze pisałem w darmowej wersji Overleafa i polecam najserdeczniej. Idealne do pracy wieloosobowej.
 3. Raport musi być czytelny i zrozumiały dla osoby, która nie zna polecenia
-4. Raportu może być napisany w języku polskim bądź angielskim
+4. Raport może być napisany w języku polskim bądź angielskim
 
 # Propozycja rozdziałów
 1. Streszczenie - pisane na koniec całej pracy
