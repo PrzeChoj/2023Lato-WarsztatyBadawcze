@@ -68,6 +68,13 @@ Z opisu na [tej stronie](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/i
 
 Przykładowe zbiory danych do testów dostępne pod [tym linkiem](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/atsp/). Znane optymalne rozwiązania do testów dostępne pod [tym linkiem](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/ATSP.html).
 
+# Pliki i Foldery
+
+Folder `JournalClub` zawiera prezentacje wygłaszane przez studentów w czasie pierwszej połowy semestru.
+Folder `Projekty` zawiera prezentacje orez raporty związane z projektami wykonywanymi przez studentów przez cały semestr.
+Folder `TEST` zawiera polecenie oraz sposób losowania putań do testu z dnia 2023.05.11.
+Plik `wyklad_optymalizacja.pdf` to prezentacja, która przedstawiana była w ramach wykładu przeze mnie, czyli prowadzącego warsztaty, dnia 2023.03.09.
+
 # Kontakt
 
 W razie jakichkolwiek wątpliwości zapraszam do kontaktu na adres e-mail 01142115@pw.edu.pl bądź przyjście w czasie gdy jestem dostępny dla studentów w ramach [Tutorni](https://docs.google.com/spreadsheets/d/1Jl2q1mRT4KoS1ojrOxRr_x0bP_rbsIl-yeA14u2Zq0E/edit#gid=1035883871), czyli poniedziałki 10-12, 14-16, środy 14-16 oraz czwartki 12-14 w strefie Break;. Najlepiej jest się zapowiedzieć, ale nie trzeba.
